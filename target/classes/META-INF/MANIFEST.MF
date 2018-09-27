@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Culqi
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: CristhianR
+Implementation-Vendor-Id: com.sissylla01
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/syllabus
+Created-By: Maven Integration for Eclipse
+
